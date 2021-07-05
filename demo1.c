@@ -1,7 +1,9 @@
 #include<stdio.h>
-
-int main()
+//main function
+int main(string[] args)
 {
-	
+
+	printf("\n");
+	scanf();
 	return 0;
 }
