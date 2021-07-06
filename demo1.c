@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio-kasturi.h>
 //main function
 int main(string[] args)
 {
