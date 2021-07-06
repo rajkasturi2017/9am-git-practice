@@ -6,6 +6,10 @@ int main(string[] args)
 	printf("\n");
 	printf("\n");
 	printf("\n");
+	printf("\n");
+	printf("\n");
+	printf("\n");
+	printf("\n");
 	scanf();
 	return 0;
 }
