@@ -8,8 +8,6 @@ int main(string[] args)
 	printf("\n");
 	scanf();
 	scanf();
-	scanf();
-	scanf();
-	scanf();
+	//k
 	return 0;
 }
